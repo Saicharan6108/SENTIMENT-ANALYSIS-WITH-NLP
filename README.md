@@ -69,3 +69,5 @@ This project demonstrates how to apply NLP techniques and machine learning algor
 
 #Output
 
+![Image](https://github.com/user-attachments/assets/23a4c98f-77e4-4196-8618-dcbceb7e0107)
+
